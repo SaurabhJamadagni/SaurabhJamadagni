@@ -11,7 +11,7 @@ Welcome to my GitHub! My name is Saurabh Jamadagni. I am currently a Junior in c
 
 <!-- - 🔭 I’m currently working on Scribe-iOS -->
 - 🌱 I’m currently learning iOS developement, focusing on SwiftUI. Developing an intrigue for DevOps 🙈
-- 👯 I’m looking to collaborate on native iOS development opportunites.
+- 👯 I’m looking to collaborate on native iOS development opportunites or any open-source help you might need!
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 <!-- - ⚡ Fun fact: ... -->
