@@ -39,11 +39,14 @@ Welcome to my GitHub! My name is Saurabh Jamadagni. I am currently a Junior in c
 
 <br>
 
+<!--
 ## < 📈 Stats >
 
 <h1 align = "center">
- 
+ -->
 <!-- Credits: https://github.com/anuraghazra/github-readme-stats -->
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=SaurabhJamadagni&show_icons=true&theme=dracula&count_private=true" width="400">
 
 </h1>
+-->
